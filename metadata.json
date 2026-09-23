@@ -1,0 +1,7 @@
+{
+  "uuid": "tsp@mikanight",
+  "name": "TSP",
+  "description": "Empty the trash from GNOME search",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1
+}
